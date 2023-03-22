@@ -1,0 +1,63 @@
+/*FORMATAÇâO GERAL*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1em;
+    font-family: "arial", helvetica, sans-serif;
+    background: #84E86D;
+}
+
+
+/*layout*/
+
+#area-cabecalho{
+    background: #F28A2E;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+#area-menu
+#area-logo{ 
+    padding: 10px;
+    text-align: center;
+
+}
+#principal{
+    width: 120px;
+    margin: 0 auto;
+    padding: 5px;
+
+}
+
+#area-menu{
+    padding: 11px;
+    text-align: right;
+    
+
+}  
+
+/*formatação de link*/
+
+a{
+    text-decoration: none;
+}
+
+#area-cabecalho a:link, 
+a:visited{
+    color: black;
+    padding: 10px 12px;
+    
+
+}
+
+a:hover{
+
+    color: #F28A2E;
+    background: #fff;
+    text-decoration: none;    
+}
+

@@ -1,0 +1,112 @@
+/*FORMATAÇâO GERAL*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1em;
+    font-family: "arial", helvetica, sans-serif;
+    background-color: white;
+}
+
+
+/*layout*/
+
+#area-cabecalho{
+    background: #F28A2E;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+#area-menu
+#area-logo{ 
+    padding: 10px;
+    text-align: center;
+
+}
+#principal{
+    width: 120px;
+    margin: 0 auto;
+    padding: 5px;
+
+}
+
+#area-menu{
+    padding: 11px;
+    text-align: right;
+    
+
+}  
+
+/*formatação de link*/
+
+a{
+    text-decoration: none;
+}
+
+#area-cabecalho a:link, 
+a:visited{
+    color: black;
+    padding: 10px 12px;
+    
+
+}
+
+a:hover{
+
+    color: #F28A2E;
+    background: yellow;
+    text-decoration: none;    
+    
+}
+#cabecalho{
+    background-color:#84E86D;
+    width: 1500px;
+    
+}
+#coleiraparacachorro{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    float: left;
+    border: 1px solid black;
+}
+#produtosbanhoetosa{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    float: left;
+    border: 1px solid black;
+}
+#caminhapet{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    float: left;
+    border: 1px solid black;
+}
+#outrosprodutospet{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    float: left;
+    border: 1px solid black;
+}
+#rodapé{
+    clear: both;
+    color: plum;
+}
+#rodapép{
+    padding-top: 5px;
+    margin: 0;
+    font-size: 0.8em;
+
+}
+#ALLDIRECTSRESERVED{
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
